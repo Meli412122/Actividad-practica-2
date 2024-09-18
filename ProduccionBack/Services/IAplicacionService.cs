@@ -12,7 +12,7 @@ namespace ProduccionBack.Services
         List<Factura> ConsultarFacturas();
         List<Articulo> ConsultarArticulos();
         List<FormaPago> ConsultarFormasPago();
-        bool RegistrarProduccion(Factura factura);
+        bool RegistrarFactura(Factura factura, int idArticulo, int cantidad);
 
 
 

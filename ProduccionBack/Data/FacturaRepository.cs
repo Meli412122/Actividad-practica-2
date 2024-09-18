@@ -10,7 +10,7 @@ namespace ProduccionBack.Data
     public class FacturaRepository : IFacturaRepository
     {
 
-        public bool InsertarFactura(Factura factura)
+        public bool InsertarFactura(Factura factura, int idArticulo, int cantidad)
         {
             bool aux = true;
             SqlConnection conexion = DBHelper.GetInstancia().GetConnection();
@@ -31,18 +31,21 @@ namespace ProduccionBack.Data
                 cmd.Parameters.AddWithValue("@nro_factura", factura.Nro);
                 cmd.Parameters.AddWithValue("@formaPago", factura.FormaPago);
                 cmd.Parameters.AddWithValue("@cliente", factura.Cliente);
-                cmd.Parameters.AddWithValue("@cantidad", factura.Cantidad);
 
                 cmd.ExecuteNonQuery();
 
                 int idFactura = (int)p.Value;
+                var detalle = new DetalleFactura(idFactura, idArticulo, cantidad);
+
+
+
+                factura.AgregarDetalle(detalle);
 
                 foreach (DetalleFactura det in factura.ListaDetalles)
                 {
                     SqlCommand cmd2 = new SqlCommand("InsertarDetalleFactura", conexion, t);
                     cmd2.CommandType = CommandType.StoredProcedure;
                     cmd2.Parameters.AddWithValue("@nro_orden", idFactura);
-                    cmd2.Parameters.AddWithValue("@id", det.Id_DetalleFactura);
                     cmd2.Parameters.AddWithValue("@idArticulo", det.IdArticulo);
                     cmd2.Parameters.AddWithValue("@cantidad", det.Cantidad);
                     cmd2.ExecuteNonQuery();
@@ -104,7 +107,7 @@ namespace ProduccionBack.Data
                 int formaPagoId = Convert.ToInt32(row["FormaPagoId"]);
                 string cliente = row["Cliente"].ToString();
                 int cantidad = Convert.ToInt32(row["Cantidad"]);
-                Factura fac = new Factura(id,formaPagoId,fecha,cliente,cantidad);
+                Factura fac = new Factura(id,formaPagoId,fecha,cliente);
 
                 lista.Add(fac);
             }

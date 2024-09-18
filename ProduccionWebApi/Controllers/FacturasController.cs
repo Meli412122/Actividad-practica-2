@@ -20,11 +20,11 @@ namespace ProduccionAPI.Controllers
         public IActionResult Get()
         {
             return Ok(service.ConsultarFacturas());
-        }
+        }    
 
         //POST api/<FacturasController>
         [HttpPost]
-        public IActionResult Post([FromQuery] Factura factura)
+        public IActionResult Post([FromQuery] Factura factura, [FromQuery] int idArticulo, [FromQuery] int cantidad)
         {
             try
             {
@@ -32,7 +32,7 @@ namespace ProduccionAPI.Controllers
                 {
                     return BadRequest("Se esperaba una orden de producción completa");
                 }
-                if (service.RegistrarProduccion(factura))
+                if (service.RegistrarFactura(factura, idArticulo, cantidad))
                     return Ok("Factura registrada con éxito!");
                 else
                     return StatusCode(500, "No se pudo registrar!");

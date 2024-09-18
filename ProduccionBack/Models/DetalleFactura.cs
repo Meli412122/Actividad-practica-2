@@ -18,9 +18,8 @@ namespace ProduccionBack.Entities
         public int Cantidad { get; set; }
 
 
-        public DetalleFactura(int id, int idFactura, int idArticulo, int cantidad)
+        public DetalleFactura(int idFactura, int idArticulo, int cantidad)
         {
-            Id_DetalleFactura = id;
             IdFactura = idFactura;
             IdArticulo = idArticulo;
             Cantidad = cantidad;

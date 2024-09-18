@@ -7,8 +7,7 @@ namespace ProduccionBack.Data
         List<Articulo> ObtenerArticulos();
         List<FormaPago> ObtenerFormasPago();
         List<Factura> ObtenerFacturas();
-
-        bool InsertarFactura(Factura factura);
+        bool InsertarFactura(Factura factura,int idArticulo, int cantidad);
 
     
     }

@@ -25,9 +25,9 @@ namespace ProduccionBack.Services
             return repository.ObtenerFacturas();
         }
 
-        public bool RegistrarProduccion(Factura factura)
+        public bool RegistrarFactura(Factura factura,int idArticulo, int cantidad)
         {
-            return repository.InsertarFactura(factura);
+            return repository.InsertarFactura(factura, idArticulo, cantidad);
         }
 
     }

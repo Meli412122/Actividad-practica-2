@@ -14,17 +14,15 @@ namespace ProduccionBack.Entities
         public List<DetalleFactura> ListaDetalles { get; set; }
 
         public string Cliente { get; set; }
-        public int Cantidad { get; set; }
 
 
-        public Factura(int nro, int formaPago, DateTime fecha, string cliente, int cantidad)
+        public Factura(int nro, int formaPago, DateTime fecha, string cliente)
         {
             Nro = nro;
             FormaPago = formaPago;
             Fecha = fecha;
             ListaDetalles = new List<DetalleFactura>();
             Cliente = cliente;
-            Cantidad = cantidad;
         }
 
         public Factura()
@@ -33,7 +31,6 @@ namespace ProduccionBack.Entities
             FormaPago = 0;
             Fecha = DateTime.Now;
             Cliente = "";
-            Cantidad = 0;
             ListaDetalles = new List<DetalleFactura>();
         }
 

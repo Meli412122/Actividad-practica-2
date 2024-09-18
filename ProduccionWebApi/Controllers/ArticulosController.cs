@@ -15,32 +15,12 @@ namespace ProduccionAPI.Controllers
             service = new AplicacionService();
         }
 
-        // GET: api/<OrdenProduccionController>
+        // GET: api/<ArticulosController>
         [HttpGet("articulos")]
         public IActionResult Get()
         {
             return Ok(service.ConsultarArticulos());
         }
 
-        // POST api/<OrdenProduccionController>
-        //[HttpPost]
-        //public IActionResult Post([FromBody] OrdenProduccion orden)
-        //{
-        //    try
-        //    {
-        //        if (orden == null)
-        //        {
-        //            return BadRequest("Se esperaba una orden de producción completa");
-        //        }
-        //        if (service.RegistrarProduccion(orden))
-        //            return Ok("Orden registrada con éxito!");
-        //        else
-        //            return StatusCode(500, "No se pudo registrar la orden!");
-        //    }
-        //    catch (Exception)
-        //    {
-        //        return StatusCode(500, "Error interno, intente nuevamente!");
-        //    }
-        //}
     }
 }
