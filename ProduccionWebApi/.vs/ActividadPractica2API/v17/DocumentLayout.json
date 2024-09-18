@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D01EB2D7-7177-457C-9B81-E63A482E34BC}|ProduccionWebApi.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionwebapi\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01EB2D7-7177-457C-9B81-E63A482E34BC}|ProduccionWebApi.csproj|solutionrelative:controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\data\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\data\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\services\\aplicacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\services\\iaplicacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01EB2D7-7177-457C-9B81-E63A482E34BC}|ProduccionWebApi.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionwebapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01EB2D7-7177-457C-9B81-E63A482E34BC}|ProduccionWebApi.csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\models\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01EB2D7-7177-457C-9B81-E63A482E34BC}|ProduccionWebApi.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionwebapi\\controllers\\formaspagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01EB2D7-7177-457C-9B81-E63A482E34BC}|ProduccionWebApi.csproj|solutionrelative:controllers\\formaspagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ActividadPractica2.csproj|c:\\users\\pabli\\desktop\\api modelo1w3\\produccionback\\actividadpractica2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Services\\ProduccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Data\\IOrdenRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Data\\OrdenRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Data\\DBHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Services\\IProduccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\ProduccionBack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Data\\IOrdenRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Data\\OrdenRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Services\\ProduccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Services\\IProduccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Data\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Data\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Data\\FacturaRepository.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Data\\FacturaRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:42:06.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Models\\DetalleFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:15:30.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionWebApi\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionWebApi\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "Controllers\\FacturasController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:58:58.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Models\\Factura.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Models\\Factura.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:40:37.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Data\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Data\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Data\\IFacturaRepository.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Data\\IFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:42:55.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAplicacionService.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Services\\IAplicacionService.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Services\\IAplicacionService.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Services\\IAplicacionService.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Services\\IAplicacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:14:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AplicacionService.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Services\\AplicacionService.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Services\\AplicacionService.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Services\\AplicacionService.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Services\\AplicacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:04:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionWebApi\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionWebApi\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Controllers\\ArticulosController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:11:35.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Models\\Articulo.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Models\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:12:34.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Data\\DBHelper.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Data\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Data\\DBHelper.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Data\\DBHelper.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAawBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:03:42.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Models\\FormaPago.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Models\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\Models\\FormaPago.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Models\\FormaPago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:22:27.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormasPagoController.cs",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionWebApi\\Controllers\\FormasPagoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FormasPagoController.cs",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionWebApi\\Controllers\\FormasPagoController.cs",
+              "RelativeToolTip": "Controllers\\FormasPagoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:29:02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActividadPractica2.csproj",
+              "DocumentMoniker": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\ActividadPractica2.csproj",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\ActividadPractica2.csproj",
+              "ToolTip": "C:\\Users\\pabli\\Desktop\\API modelo1w3\\ProduccionBack\\ActividadPractica2.csproj",
+              "RelativeToolTip": "..\\ProduccionBack\\ActividadPractica2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T23:09:13.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrdenRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Data\\IOrdenRepository.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Data\\IOrdenRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:00:21.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdenRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:59:50.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProduccionService.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Services\\ProduccionService.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Services\\ProduccionService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:59:33.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProduccionService.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Services\\IProduccionService.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\API modelo\\ProduccionBack\\Services\\IProduccionService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:59:27.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProduccionService.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Services\\ProduccionService.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Services\\ProduccionService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:22:47.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrdenRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Data\\IOrdenRepository.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Data\\IOrdenRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:21:55.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdenRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:21:53.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Data\\DBHelper.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Data\\DBHelper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:24:55.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProduccionService.cs",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Services\\IProduccionService.cs",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\Services\\IProduccionService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:20:43.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProduccionBack.csproj",
+              "DocumentMoniker": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\ProduccionBack.csproj",
+              "ToolTip": "D:\\UTN\\TUP PROG II\\2024\\Material\\Semana 05\\ProduccionBack\\ProduccionBack.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T02:20:19.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
